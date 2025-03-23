@@ -8,17 +8,8 @@ Outliner Renamer was designed on Maya 2024. If your version is 2025 or more, thi
 
 ## Installation 
 
-* Download this repository into your maya scripts folder under your maya home folder, usually at "C:\Users\YourUserName\Documents\maya\scripts" 
-
-* Open Maya and launch the Script Editor
-
-* Paste the following code
-
-```python
-
-```
-
-It will create a Button on the Custom Shelf of Maya with this icon 
+Copy the contents of Outliner.py into maya's script editor.
+You can select all the lines of code copied into the script editor and drag and drop into any shelf to save the code!
 
 ## How to use
 
